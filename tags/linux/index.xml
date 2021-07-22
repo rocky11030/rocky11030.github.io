@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on 静水深流的Blog</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on 静水深流的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>进击的Linux--sed</title>
+      <link>http://localhost:1313/post/prometheus/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/prometheus/test/</guid>
+      <description>进击的Linux&amp;ndash;sed 查找目录下文件包含字段，并进行替换（IP） sed -i &amp;quot;s/64.61/62.53/g&amp;quot; `grep 64.61 -rl /opt/app/path` 查找目录下文件包含字段，并进行替换 sed &#39;s/sttest/tibetair/g&#39; *****.xml VIM中</description>
+    </item>
+    
+  </channel>
+</rss>

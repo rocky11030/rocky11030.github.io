@@ -6,7 +6,18 @@
     <description>Recent content on 静水深流的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 22 Jul 2021 10:09:52 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 15:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nginx 容器负载均衡</title>
+      <link>http://localhost:1313/post/middleware/nginx-docker-load/</link>
+      <pubDate>Wed, 28 Jul 2021 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/middleware/nginx-docker-load/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下容器化的nginx的负载均衡实例&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
     <item>
       <title>Tmux 安装</title>
       <link>http://localhost:1313/post/tools/tmux-deploy/</link>
@@ -53,13 +64,14 @@
     </item>
     
     <item>
-      <title>Hello</title>
-      <link>http://localhost:1313/post/spf13-vim-3-0-release-and-new-website/</link>
-      <pubDate>Fri, 16 Jul 2021 15:35:53 +0800</pubDate>
+      <title>Minio集群的启动和停止</title>
+      <link>http://localhost:1313/post/storage/minio-start-stop/</link>
+      <pubDate>Fri, 30 Aug 2019 01:53:34 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/spf13-vim-3-0-release-and-new-website/</guid>
-      <description>test test kakdaki ;bowen
-helloeveryone </description>
+      <guid>http://localhost:1313/post/storage/minio-start-stop/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是讨论minio的集群启动脚本和停止脚本(版本:2019-10)&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -69,25 +81,6 @@ helloeveryone </description>
       
       <guid>http://localhost:1313/post/hidden-post/</guid>
       <description>&lt;p&gt;This post is hidden from the home page.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>[English] Creating a New Theme</title>
-      <link>http://localhost:1313/post/english-preview/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/english-preview/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>[日本語] 敬語体系</title>
-      <link>http://localhost:1313/post/japanese-preview/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/japanese-preview/</guid>
-      <description>日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに</description>
     </item>
     
     <item>

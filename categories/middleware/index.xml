@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>middleware on 静水深流的Blog</title>
+    <link>http://localhost:1313/categories/middleware/</link>
+    <description>Recent content in middleware on 静水深流的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 Jul 2021 15:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/middleware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nginx 容器负载均衡</title>
+      <link>http://localhost:1313/post/middleware/nginx-docker-load/</link>
+      <pubDate>Wed, 28 Jul 2021 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/middleware/nginx-docker-load/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下容器化的nginx的负载均衡实例&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

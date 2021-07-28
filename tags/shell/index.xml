@@ -5,7 +5,19 @@
     <link>http://localhost:1313/tags/shell/</link>
     <description>Recent content in shell on 静水深流的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://localhost:1313/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 Aug 2019 01:53:34 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minio集群的启动和停止</title>
+      <link>http://localhost:1313/post/storage/minio-start-stop/</link>
+      <pubDate>Fri, 30 Aug 2019 01:53:34 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/storage/minio-start-stop/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是讨论minio的集群启动脚本和停止脚本(版本:2019-10)&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
     <item>
       <title>进击的Linux--sed</title>
       <link>http://localhost:1313/post/prometheus/test/</link>

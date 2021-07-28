@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 静水深流的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 22 Jul 2021 10:09:52 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 15:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>middleware</title>
+      <link>http://localhost:1313/categories/middleware/</link>
+      <pubDate>Wed, 28 Jul 2021 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/middleware/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tools</title>
       <link>http://localhost:1313/categories/tools/</link>
@@ -17,20 +26,11 @@
     </item>
     
     <item>
-      <title>Development</title>
-      <link>http://localhost:1313/categories/development/</link>
-      <pubDate>Fri, 16 Jul 2021 15:35:53 +0800</pubDate>
+      <title>storage</title>
+      <link>http://localhost:1313/categories/storage/</link>
+      <pubDate>Fri, 30 Aug 2019 01:53:34 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VIM</title>
-      <link>http://localhost:1313/categories/vim/</link>
-      <pubDate>Fri, 16 Jul 2021 15:35:53 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/vim/</guid>
+      <guid>http://localhost:1313/categories/storage/</guid>
       <description></description>
     </item>
     
@@ -58,24 +58,6 @@
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/categories/theme-preview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>http://localhost:1313/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>日本語</title>
-      <link>http://localhost:1313/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
       <description></description>
     </item>
     

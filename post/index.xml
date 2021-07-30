@@ -19,6 +19,17 @@
     </item>
     
     <item>
+      <title>docker-compose 基础命令</title>
+      <link>http://localhost:1313/post/docker/docker-compose-command/</link>
+      <pubDate>Tue, 28 Jul 2020 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/docker/docker-compose-command/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下docker-compose的基本操作命令&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
       <title>Tmux 安装</title>
       <link>http://localhost:1313/post/tools/tmux-deploy/</link>
       <pubDate>Thu, 22 Jul 2021 10:09:52 +0800</pubDate>
@@ -37,21 +48,25 @@
     </item>
     
     <item>
-      <title>Theme preview</title>
-      <link>http://localhost:1313/post/even-preview/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      <title>docker小测试</title>
+      <link>http://localhost:1313/post/docker/docker-test/</link>
+      <pubDate>Tue, 28 Jul 2020 15:04:11 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/even-preview/</guid>
-      <description>&lt;p&gt;Based on &lt;a href=&#34;https://github.com/facelessuser/MarkdownPreview/blob/master/examples/test.md&#34;&gt;MarkdownPreview test.md&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/docker/docker-test/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下docker5道小题&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>Ansible-shell</title>
-      <link>http://localhost:1313/post/ansible/ansible-shell/</link>
-      <pubDate>Fri, 16 Jul 2021 15:37:39 +0800</pubDate>
+      <title>Vscode 快捷键</title>
+      <link>http://localhost:1313/post/tools/vs-hotkey/</link>
+      <pubDate>Wed, 22 Jul 2020 10:09:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ansible/ansible-shell/</guid>
-      <description>&lt;p&gt;关于shell怎么调用ansible的脚本和分析。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/tools/vs-hotkey/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录vscode工具的快捷键&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -66,21 +81,57 @@
     </item>
     
     <item>
-      <title>This is a hidden post.</title>
-      <link>http://localhost:1313/post/hidden-post/</link>
-      <pubDate>Thu, 08 Mar 2018 17:40:19 +0800</pubDate>
+      <title>vim 快捷键</title>
+      <link>http://localhost:1313/post/tools/vim-ops/</link>
+      <pubDate>Fri, 03 May 2019 10:09:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/hidden-post/</guid>
-      <description>&lt;p&gt;This post is hidden from the home page.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/tools/vim-ops/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录vim工具的操作命令&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>[中文] 《长恨歌》</title>
-      <link>http://localhost:1313/post/k8s/chinese-preview/</link>
-      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      <title>grep的常见实例</title>
+      <link>http://localhost:1313/post/shell/grep-instance/</link>
+      <pubDate>Sun, 03 Feb 2019 01:37:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/k8s/chinese-preview/</guid>
-      <description>《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。 第一段：贵妃受宠爱 汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。 天生丽质难</description>
+      <guid>http://localhost:1313/post/shell/grep-instance/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;使用grep进行过滤的常见实例&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>进击的Linux--sed</title>
+      <link>http://localhost:1313/post/shell/linux-sed/</link>
+      <pubDate>Wed, 30 Jan 2019 01:37:56 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/shell/linux-sed/</guid>
+      <description>&lt;h1 id=&#34;进击的linux--sed&#34;&gt;进击的Linux&amp;ndash;sed&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;查找目录下文件包含字段，并进行替换（IP）&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nginx-k8s-2</title>
+      <link>http://localhost:1313/post/k8s/nginx-2/</link>
+      <pubDate>Tue, 29 Jan 2019 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/k8s/nginx-2/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;记录用k8s部署nginx+使用configmap更新nginx.conf和conf.d/default.conf&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nginx-k8s-1</title>
+      <link>http://localhost:1313/post/k8s/nginx-1/</link>
+      <pubDate>Mon, 28 Jan 2019 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/k8s/nginx-1/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;记录用k8s部署nginx的最简单yaml&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -221,15 +272,6 @@ Andrew-&amp;gt;&amp;gt;China: I am good thanks!
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>进击的Linux--sed</title>
-      <link>http://localhost:1313/post/prometheus/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/prometheus/test/</guid>
-      <description>进击的Linux&amp;ndash;sed 查找目录下文件包含字段，并进行替换（IP） sed -i &amp;quot;s/64.61/62.53/g&amp;quot; `grep 64.61 -rl /opt/app/path` 查找目录下文件包含字段，并进行替换 sed &#39;s/sttest/tibetair/g&#39; *****.xml VIM中</description>
     </item>
     
   </channel>

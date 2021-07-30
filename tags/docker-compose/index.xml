@@ -18,5 +18,16 @@
 &lt;/blockquote&gt;</description>
     </item>
     
+    <item>
+      <title>docker-compose 基础命令</title>
+      <link>http://localhost:1313/post/docker/docker-compose-command/</link>
+      <pubDate>Tue, 28 Jul 2020 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/docker/docker-compose-command/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下docker-compose的基本操作命令&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
   </channel>
 </rss>

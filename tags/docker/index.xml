@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on 静水深流的Blog</title>
+    <link>http://localhost:1313/tags/docker/</link>
+    <description>Recent content in docker on 静水深流的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2020 15:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker小测试</title>
+      <link>http://localhost:1313/post/docker/docker-test/</link>
+      <pubDate>Tue, 28 Jul 2020 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/docker/docker-test/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下docker5道小题&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

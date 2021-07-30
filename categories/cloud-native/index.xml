@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud native on 静水深流的Blog</title>
+    <link>http://localhost:1313/categories/cloud-native/</link>
+    <description>Recent content in cloud native on 静水深流的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2020 15:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/cloud-native/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker-compose 基础命令</title>
+      <link>http://localhost:1313/post/docker/docker-compose-command/</link>
+      <pubDate>Tue, 28 Jul 2020 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/docker/docker-compose-command/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下docker-compose的基本操作命令&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>docker小测试</title>
+      <link>http://localhost:1313/post/docker/docker-test/</link>
+      <pubDate>Tue, 28 Jul 2020 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/docker/docker-test/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下docker5道小题&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nginx-k8s-2</title>
+      <link>http://localhost:1313/post/k8s/nginx-2/</link>
+      <pubDate>Tue, 29 Jan 2019 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/k8s/nginx-2/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;记录用k8s部署nginx+使用configmap更新nginx.conf和conf.d/default.conf&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nginx-k8s-1</title>
+      <link>http://localhost:1313/post/k8s/nginx-1/</link>
+      <pubDate>Mon, 28 Jan 2019 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/k8s/nginx-1/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;记录用k8s部署nginx的最简单yaml&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

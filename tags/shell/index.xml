@@ -19,12 +19,24 @@
     </item>
     
     <item>
-      <title>进击的Linux--sed</title>
-      <link>http://localhost:1313/post/prometheus/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>grep的常见实例</title>
+      <link>http://localhost:1313/post/shell/grep-instance/</link>
+      <pubDate>Sun, 03 Feb 2019 01:37:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/prometheus/test/</guid>
-      <description>进击的Linux&amp;ndash;sed 查找目录下文件包含字段，并进行替换（IP） sed -i &amp;quot;s/64.61/62.53/g&amp;quot; `grep 64.61 -rl /opt/app/path` 查找目录下文件包含字段，并进行替换 sed &#39;s/sttest/tibetair/g&#39; *****.xml VIM中</description>
+      <guid>http://localhost:1313/post/shell/grep-instance/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;使用grep进行过滤的常见实例&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>进击的Linux--sed</title>
+      <link>http://localhost:1313/post/shell/linux-sed/</link>
+      <pubDate>Wed, 30 Jan 2019 01:37:56 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/shell/linux-sed/</guid>
+      <description>&lt;h1 id=&#34;进击的linux--sed&#34;&gt;进击的Linux&amp;ndash;sed&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;查找目录下文件包含字段，并进行替换（IP）&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

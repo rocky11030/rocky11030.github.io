@@ -6,7 +6,7 @@
     <description>Recent content in cloud native on 静水深流的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Jul 2020 15:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/cloud-native/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 15:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/cloud-native/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>docker-compose 基础命令</title>
       <link>http://localhost:1313/post/docker/docker-compose-command/</link>
@@ -16,6 +16,37 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;主要是记录下docker-compose的基本操作命令&lt;/p&gt;
 &lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>k8s 基础命令</title>
+      <link>http://localhost:1313/post/k8s/k8s-command/</link>
+      <pubDate>Tue, 28 Jul 2020 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/k8s/k8s-command/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下k8s的基本操作命令,测试题&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>CKA 纲要</title>
+      <link>http://localhost:1313/post/k8s/cka-outline/</link>
+      <pubDate>Wed, 28 Jul 2021 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/k8s/cka-outline/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;主要是记录下cka考试的纲要&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>k8s 相关链接</title>
+      <link>http://localhost:1313/post/k8s/k8s-links/</link>
+      <pubDate>Thu, 20 Aug 2020 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/k8s/k8s-links/</guid>
+      <description>The K8S&amp;rsquo;s DOC link : kubectl DOC文档 kubectl备忘录-上下文和配置 kubectl操作 kubectl节点操作 kubectl 存储操作 kubectl 集群故障排查 kubectl RBAC kubectl 安全清空节点 kubectl</description>
     </item>
     
     <item>

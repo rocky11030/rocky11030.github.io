@@ -8,6 +8,15 @@
     <language>zh-cn</language>
     <lastBuildDate>Wed, 28 Jul 2021 15:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>cloud native</title>
+      <link>http://localhost:1313/categories/cloud-native/</link>
+      <pubDate>Wed, 28 Jul 2021 15:04:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/cloud-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>middleware</title>
       <link>http://localhost:1313/categories/middleware/</link>
       <pubDate>Wed, 28 Jul 2021 15:04:11 +0800</pubDate>
@@ -26,15 +35,6 @@
     </item>
     
     <item>
-      <title>cloud native</title>
-      <link>http://localhost:1313/categories/cloud-native/</link>
-      <pubDate>Tue, 28 Jul 2020 15:04:11 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/cloud-native/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>storage</title>
       <link>http://localhost:1313/categories/storage/</link>
       <pubDate>Fri, 30 Aug 2019 01:53:34 +0800</pubDate>
@@ -49,24 +49,6 @@
       <pubDate>Sun, 03 Feb 2019 01:37:56 +0800</pubDate>
       
       <guid>http://localhost:1313/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>http://localhost:1313/categories/shortcodes/</link>
-      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     

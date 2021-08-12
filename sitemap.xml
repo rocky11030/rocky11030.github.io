@@ -16,6 +16,13 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/k8s/k8s-command/</loc>
+    <lastmod>2020-07-28T15:04:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/tools/tmux-deploy/</loc>
     <lastmod>2021-07-22T10:09:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,6 +37,13 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/tools/md-grammar/</loc>
+    <lastmod>2018-07-22T10:09:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +52,27 @@
   
   <url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2021-07-28T15:04:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/cka/</loc>
+    <lastmod>2021-07-28T15:04:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/k8s/cka-outline/</loc>
+    <lastmod>2021-07-28T15:04:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/cloud-native/</loc>
     <lastmod>2021-07-28T15:04:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -100,8 +135,15 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/cloud-native/</loc>
+    <loc>http://localhost:1313/tags/k8s/</loc>
     <lastmod>2020-07-28T15:04:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/k8s/k8s-links/</loc>
+    <lastmod>2019-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -212,13 +254,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/k8s/</loc>
-    <lastmod>2019-01-29T15:04:11+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/post/k8s/nginx-2/</loc>
     <lastmod>2019-01-29T15:04:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -233,71 +268,8 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/shortcodes/</loc>
-    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
-    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/shortcodes/</loc>
-    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/js-flowchart-diagrams/</loc>
-    <lastmod>2015-03-04T21:57:50+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/js-sequence-diagrams/</loc>
-    <lastmod>2015-03-04T21:57:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/preview/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/syntax-highlighting/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/syntax-highlighting/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/syntax-highlighting/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/tag-5/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <loc>http://localhost:1313/tags/md/</loc>
+    <lastmod>2018-07-22T10:09:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

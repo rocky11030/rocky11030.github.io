@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Tmux 安装 - 静水深流的Blog</title>
+  <title>k8s 相关链接 - 静水深流的Blog</title>
   <meta name="renderer" content="webkit" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
@@ -16,8 +16,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="deepwater" /><meta name="description" content="此脚本主要是安装和配置tmux-暂时适用于CentOS
-" /><meta name="keywords" content="Hugo, theme, even" />
+<meta name="author" content="deepwater" /><meta name="description" content="The K8S&amp;rsquo;s DOC link : kubectl DOC文档 kubectl备忘录-上下文和配置 kubectl操作 kubectl节点操作 kubectl 存储操作 kubectl 集群故障排查 kubectl RBAC kubectl 安全清空节点 kubectl" /><meta name="keywords" content="Hugo, theme, even" />
 
 
 
@@ -27,7 +26,7 @@
 <meta name="generator" content="Hugo 0.85.0 with theme even" />
 
 
-<link rel="canonical" href="http://localhost:1313/post/tools/tmux-deploy/" />
+<link rel="canonical" href="http://localhost:1313/post/k8s/k8s-links/" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -40,20 +39,20 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
 
 
-<meta property="og:title" content="Tmux 安装" />
-<meta property="og:description" content="此脚本主要是安装和配置tmux-暂时适用于CentOS" />
+<meta property="og:title" content="k8s 相关链接" />
+<meta property="og:description" content="The K8S&rsquo;s DOC link : kubectl DOC文档 kubectl备忘录-上下文和配置 kubectl操作 kubectl节点操作 kubectl 存储操作 kubectl 集群故障排查 kubectl RBAC kubectl 安全清空节点 kubectl" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/post/tools/tmux-deploy/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2021-07-22T10:09:52+08:00" />
-<meta property="article:modified_time" content="2021-07-22T10:09:52+08:00" />
+<meta property="og:url" content="http://localhost:1313/post/k8s/k8s-links/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2020-08-20T21:38:52+08:00" />
+<meta property="article:modified_time" content="2019-08-28T21:41:52+08:00" />
 
-<meta itemprop="name" content="Tmux 安装">
-<meta itemprop="description" content="此脚本主要是安装和配置tmux-暂时适用于CentOS"><meta itemprop="datePublished" content="2021-07-22T10:09:52+08:00" />
-<meta itemprop="dateModified" content="2021-07-22T10:09:52+08:00" />
-<meta itemprop="wordCount" content="268">
-<meta itemprop="keywords" content="tmux," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Tmux 安装"/>
-<meta name="twitter:description" content="此脚本主要是安装和配置tmux-暂时适用于CentOS"/>
+<meta itemprop="name" content="k8s 相关链接">
+<meta itemprop="description" content="The K8S&rsquo;s DOC link : kubectl DOC文档 kubectl备忘录-上下文和配置 kubectl操作 kubectl节点操作 kubectl 存储操作 kubectl 集群故障排查 kubectl RBAC kubectl 安全清空节点 kubectl"><meta itemprop="datePublished" content="2020-08-20T21:38:52+08:00" />
+<meta itemprop="dateModified" content="2019-08-28T21:41:52+08:00" />
+<meta itemprop="wordCount" content="188">
+<meta itemprop="keywords" content="k8s,cka," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="k8s 相关链接"/>
+<meta name="twitter:description" content="The K8S&rsquo;s DOC link : kubectl DOC文档 kubectl备忘录-上下文和配置 kubectl操作 kubectl节点操作 kubectl 存储操作 kubectl 集群故障排查 kubectl RBAC kubectl 安全清空节点 kubectl"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -130,12 +129,12 @@
           <article class="post">
     
     <header class="post-header">
-      <h1 class="post-title">Tmux 安装</h1>
+      <h1 class="post-title">k8s 相关链接</h1>
 
       <div class="post-meta">
-        <span class="post-time"> 2021-07-22 </span>
+        <span class="post-time"> 2020-08-20 </span>
         <div class="post-category">
-            <a href="/categories/tools/"> tools </a>
+            <a href="/categories/cloud-native/"> cloud native </a>
             </div>
         
       </div>
@@ -143,104 +142,40 @@
 
     <div class="post-toc" id="post-toc">
   <h2 class="post-toc-title">文章目录</h2>
-  <div class="post-toc-content">
-    <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li>
-          <ul>
-            <li><a href="#1编译安装libevent">1.编译安装libevent</a></li>
-            <li><a href="#2编译安装tmux">2.编译安装tmux</a></li>
-            <li><a href="#3排错">3.排错</a></li>
-            <li><a href="#4tmux自定义配置">4.tmux自定义配置</a></li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
-</nav>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents"></nav>
   </div>
 </div>
     <div class="post-content">
-      <p>此脚本主要是安装和配置tmux-暂时适用于CentOS</p>
-<p>注意: (软件在Ops-tools里面)修改tmux的配置，需要把原来tmux的session全部关闭掉才能生效</p>
-<hr>
-<h3 id="1编译安装libevent">1.编译安装libevent</h3>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span><span class="lnt">9
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">#安装依赖包</span>
-yum install gcc automake ncurses-devel byacc automake openssl-devel libncurses5-dev pkg-config cmake
-<span class="c1">#编译安装libevent</span>
-wget https://github.com/nmathewson/Libevent/archive/release-2.1.12-stable.tar.gz
-tar -xzvf release-2.1.12-stable.tar.gz
-<span class="nb">cd</span> libevent-release-2.1.12-stable
-sh autogen.sh
-./configure
-make <span class="o">&amp;&amp;</span> make install
-</code></pre></td></tr></table>
-</div>
-</div><h3 id="2编译安装tmux">2.编译安装tmux</h3>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">#执行脚本和编译安装tmux</span>
-git clone https://github.com/tmux/tmux.git
-<span class="nb">cd</span> tmux
-sh autogen.sh
-./configure
-make <span class="o">&amp;&amp;</span> make install
-<span class="c1">#查看是否安装成功</span>
-tmux -V
-</code></pre></td></tr></table>
-</div>
-</div><h3 id="3排错">3.排错</h3>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">#报错信息:        
-  tmux: error while loading shared libraries: libevent-2.1.so.7: cannot open shared object file: No such file or directory
-#解决：
-  ln -s /usr/local/lib/libevent-2.1.so.7 /usr/lib64/libevent-2.1.so.7
-</code></pre></td></tr></table>
-</div>
-</div><h3 id="4tmux自定义配置">4.tmux自定义配置</h3>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">配置: git clone https://github.com/rocky11030/tmux
-      <span class="nb">cd</span> tmux <span class="o">&amp;&amp;</span> mv tmux.conf ~/.tmux.conf
-</code></pre></td></tr></table>
-</div>
-</div>
+      <p>The K8S&rsquo;s DOC link :</p>
+<ul>
+<li><a href="https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands">kubectl DOC文档</a></li>
+<li><a href="https://kubernetes.io/zh/docs/reference/kubectl/cheatsheet/">kubectl备忘录-上下文和配置</a></li>
+<li><a href="https://kubernetes.io/zh/docs/reference/kubectl/kubectl/">kubectl操作</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/architecture/nodes/">kubectl节点操作</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/storage/">kubectl 存储操作</a></li>
+<li><a href="https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-cluster/">kubectl 集群故障排查</a></li>
+<li><a href="https://kubernetes.io/zh/docs/reference/access-authn-authz/rbac/">kubectl RBAC</a></li>
+<li><a href="https://kubernetes.io/zh/docs/tasks/administer-cluster/safely-drain-node/">kubectl 安全清空节点</a></li>
+<li><a href="https://kubernetes.io/zh/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/">kubectl 升级kubeadm集群</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/services-networking/network-policies/">kubectl 网络策略</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/services-networking/service/">kubectl services</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/workloads/controllers/deployment/">kubectl deployment</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/services-networking/ingress/">kubectl ingress</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/scheduling-eviction/assign-pod-node/#nodeselector">kubectl nodeSelector</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/scheduling-eviction/taint-and-toleration/">kubectl 污点与容忍</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/workloads/pods/pod-topology-spread-constraints/">kubectl pod拓扑分布约束</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/workloads/pods/init-containers/">kubectl init容器</a></li>
+<li><a href="https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-service/">kubectl 调试services</a></li>
+<li><a href="https://kubernetes.io/zh/docs/tasks/configure-pod-container/configure-volume-storage/">kubectl 配置 Pod 以使用卷进行存储</a></li>
+<li><a href="https://kubernetes.io/zh/docs/tasks/configure-pod-container/configure-pod-configmap/">kubectl 配置 Pod 使用 ConfigMap</a></li>
+<li><a href="https://kubernetes.io/zh/docs/tasks/inject-data-application/distribute-credentials-secure/">kubectl 使用 Secret 安全地分发凭证</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/services-networking/dns-pod-service/">kubectl Pod 与 Service 的 DNS</a></li>
+<li><a href="https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/install-kubeadm/">kubectl 安装 kubeadm</a></li>
+<li><a href="https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/install-kubeadm/">kubectl 为 Pod 或容器配置安全性上下文</a></li>
+<li><a href="https://kubernetes.io/zh/docs/concepts/policy/pod-security-policy/">kubectl Pod 安全策略</a></li>
+</ul>
+
     </div>
 
     <div class="post-copyright">
@@ -251,28 +186,26 @@ tmux -V
   <p class="copyright-item">
     <span class="item-title">上次更新</span>
     <span class="item-content">
-        2021-07-22
+        2019-08-28
         
     </span>
   </p>
   
-  <p class="copyright-item">
-    <span class="item-title">许可协议</span>
-    <span class="item-content">MIT</span>
-  </p>
+  
 </div>
 <footer class="post-footer">
       <div class="post-tags">
-          <a href="/tags/tmux/">tmux</a>
+          <a href="/tags/k8s/">k8s</a>
+          <a href="/tags/cka/">cka</a>
           </div>
       <nav class="post-nav">
-        <a class="prev" href="/post/k8s/k8s-command/">
+        <a class="prev" href="/post/k8s/cka-outline/">
             <i class="iconfont icon-left"></i>
-            <span class="prev-text nav-default">k8s 基础命令</span>
+            <span class="prev-text nav-default">CKA 纲要</span>
             <span class="prev-text nav-mobile">上一篇</span>
           </a>
-        <a class="next" href="/post/tools/tmux-ops/">
-            <span class="next-text nav-default">Tmux 操作</span>
+        <a class="next" href="/post/docker/docker-test/">
+            <span class="next-text nav-default">docker小测试</span>
             <span class="next-text nav-mobile">下一篇</span>
             <i class="iconfont icon-right"></i>
           </a>
@@ -329,13 +262,6 @@ tmux -V
 
 
 <script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
-  <script type="text/javascript">
-    window.MathJax = {
-      tex: {
-        }
-    };
-  </script>
-  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.5/es5/tex-mml-chtml.js" integrity="sha256-HGLuEfFcsUJGhvB8cQ8nr0gai9EucOOaIxFw7qxmd+w=" crossorigin="anonymous"></script>
 
 
 
